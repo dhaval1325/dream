@@ -1,0 +1,8 @@
+{
+  "name": "Dream Immigration - Bardoli",
+  "description": "A comprehensive immigration and visa consultancy platform featuring AI-powered student guidance, flight bookings, and country-specific immigration management for USA, Australia, and more.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
